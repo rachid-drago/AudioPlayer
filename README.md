@@ -1,3 +1,3 @@
 # AudioPlayer
 
-![Alt text](./audio-player?raw=true "Title")
+![Alt text](./audio-player.png?raw=true "Title")
