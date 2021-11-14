@@ -751,11 +751,11 @@ defineListeners() {
 
 
     this.shadowRoot.querySelector("#btn1").onclick = () => {
-        this.player.currentTime += 10;
+        this.player.currentTime -= 10;
     }
 
     this.shadowRoot.querySelector("#btn2").onclick = () => {
-        this.player.currentTime -= 10;
+        this.player.currentTime += 10;
     }
 
     
